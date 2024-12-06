@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Analyst and Machine Learning Instructor @ Oranium Tech Chennai **
 
-- 👯 I’m looking to collaborate on **Data Analytics and Machine Leering Engineer**
+- 👯 I’m looking to collaborate on **Data Analytics and Machine Learning Engineer**
 
 - 🤝 I’m here to lend a hand **to those making the leap from non-IT backgrounds to the Machine Learning**
 
