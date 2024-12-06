@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaser Arabath</h1>
-<h3 align="center">A passionate Data Analytics and Machine Learning From Chennai</h3>
+
 
 - 🔭 I’m currently working on **Data Analyst and Machine Learning Instructor @ Oranium Tech Chennai **
 
